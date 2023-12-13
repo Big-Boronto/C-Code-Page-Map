@@ -3,11 +3,17 @@
 Control characters are non-printable characters that modify the surrounding text.
 
 000: - `'␀' U+0000 (NUL) : U+2406` Null
+
 007: - `'␇' U+0007 (BEL) : U+2407` Alert
+
 008: - `'␈' U+0008  (BS) : U+2408` Backspace
+
 009: - `'␉' U+0009 (TAB) : U+2409` Character Tabulation
+
 010: - `'␊' U+000A  (LF) : U+240A` End of Line
+
 013: - `'␍' U+000D  (CR) : U+240D` Carriage Return
+
 027: - `'␛' U+001B (ESC) : U+241B` Escape
 
 # ASCII
@@ -188,7 +194,6 @@ Characters used to draw blocks of various opacities and sizes.
 221: - `'▌' U+258C` Left Half Block
 222: - `'▐' U+2590` Right Half Block
 223: - `'▀' U+2580` Upper Half Block
-
 
 ## Box Drawings
 
