@@ -172,7 +172,7 @@ Accented versions of the above Uppercase and Lowercase categories.
 * 163 - `'ú' U+00FA` Latin Small Letter U With Acute
 * 164 - `'ñ' U+00F1` Latin Small Letter N With Tilde
 
-# Drawings
+# Graphics
 
 Characters for the purpose of drawing in text, rather than representing an alphanumerical value.
 
